@@ -1,0 +1,11 @@
+# Hidden files #
+################
+.directory
+.git
+.idea
+.ipynb_checkpoints
+.projectignore
+
+# Environment #
+###############
+envs/
